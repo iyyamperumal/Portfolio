@@ -1,11 +1,11 @@
 import React from 'react';
-
+import profile from '../assets/images/profile.png'
 const About = () => {
     return (
         <>
             <div className='about flex md:flex-row flex-col-reverse' id='about'>
                 <div className='lg:w-2/5 md:2/6 w-auto justify-items-center'>
-                    <img className='md:h-full h-auto lg:pt-20 md:pt-20 pt-0' src='..\images/2-removebg-preview.png' alt='...' />
+                    <img className='md:h-full h-auto lg:pt-20 md:pt-20 pt-0' src={profile} alt='...' />
                 </div>
                 <div className='lg:w-3/5 md:w-4/6 sm:w-auto'>
                     <p className='text-sky-300 jersey-15-regular underline h1 pl-2'>About</p>

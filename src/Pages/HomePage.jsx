@@ -1,4 +1,5 @@
 import React from 'react';
+import homePagePic from '../assets/images/image4.png'
 
 const HomePage = () => {
     return (
@@ -23,7 +24,7 @@ const HomePage = () => {
                     </div>
                 </div>
                 <div className='lg:w-1/2 md:w-1/2 sm:w-auto'>
-                    <img className='lg:h-80 md:h-80 h-auto w-auto' src='../images/image4.png' alt='...' />
+                    <img className='lg:h-80 md:h-80 h-auto w-auto' src={homePagePic} alt='...' />
                 </div>
             </div>
         </>
