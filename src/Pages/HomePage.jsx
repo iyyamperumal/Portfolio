@@ -19,8 +19,8 @@ const HomePage = () => {
                             </svg></a>
                         </div>
                     </div>
-                    <div>
-                        <p className='text-fuchsia-200 text-xl pt-10'>Tap to view and download  <a href='https://drive.google.com/file/d/1fyT9hTv_q1X3Z43rHnNfnslq4RHrDy1L/view?usp=sharing' target='blank' className='text-teal-300 h3'> My Resume <i className="fa-regular fa-file" /></a></p>
+                    <div className=''>
+                        <div><p className='text-fuchsia-200 text-xl pt-10'>Tap to view and download </p></div><div><a href='https://drive.google.com/file/d/1fyT9hTv_q1X3Z43rHnNfnslq4RHrDy1L/view?usp=sharing' target='blank' className='text-teal-300 h4 hover:text-orange-300'> My Resume <i className="fa-regular fa-file" /></a></div>
                     </div>
                 </div>
                 <div className='lg:w-1/2 md:w-1/2 sm:w-auto'>

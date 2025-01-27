@@ -3,98 +3,252 @@
 @tailwind utilities;
 
 .edu-au-vic-wa-nt-arrows-about {
-    font-family: "Edu AU VIC WA NT Arrows", serif;
-    font-optical-sizing: auto;
-    font-weight: 600;
-    font-style: normal;
-  }
-  .cabin-sketch-regular {
-    font-family: "Cabin Sketch", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  .cabin-sketch-bold {
-    font-family: "Cabin Sketch", serif;
-    font-weight: 700;
-    font-style: normal;
-  }
+  font-family: "Edu AU VIC WA NT Arrows", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
 
-  .bungee-shade-regular {
-    font-family: "Bungee Shade", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .bungee-outline-regular {
-    font-family: "Bungee Outline", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .bilbo-swash-caps-regular {
-    font-family: "Bilbo Swash Caps", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .bilbo-regular {
-    font-family: "Bilbo", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .beth-ellen-regular {
-    font-family: "Beth Ellen", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .beau-rivage-regular {
-    font-family: "Beau Rivage", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .beau-rivage-regular {
-    font-family: "Beau Rivage", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .babylonica-regular {
-    font-family: "Babylonica", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .aladin-regular {
-    font-family: "Aladin", serif;
-    font-weight: 500;
-    font-style: normal;
-  }
-  .jersey-15-regular {
-    font-family: "Jersey 15", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .cinzel-about {
-    font-family: "Cinzel", serif;
-    font-optical-sizing: auto;
-    font-weight: 600;
-    font-style: normal;
-  }
-  .matemasie-regular {
-    font-family: "Matemasie", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .rubik-vinyl-regular {
-    font-family: "Rubik Vinyl", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .rubik-glitch-regular {
-    font-family: "Rubik Glitch", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .playwrite-ng-modern-guides-regular {
-    font-family: "Playwrite NG Modern Guides", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  
+.cabin-sketch-regular {
+  font-family: "Cabin Sketch", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.cabin-sketch-bold {
+  font-family: "Cabin Sketch", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.bungee-shade-regular {
+  font-family: "Bungee Shade", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bungee-outline-regular {
+  font-family: "Bungee Outline", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bilbo-swash-caps-regular {
+  font-family: "Bilbo Swash Caps", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bilbo-regular {
+  font-family: "Bilbo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.beth-ellen-regular {
+  font-family: "Beth Ellen", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.beau-rivage-regular {
+  font-family: "Beau Rivage", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.beau-rivage-regular {
+  font-family: "Beau Rivage", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.babylonica-regular {
+  font-family: "Babylonica", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.aladin-regular {
+  font-family: "Aladin", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.jersey-15-regular {
+  font-family: "Jersey 15", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.cinzel-about {
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.matemasie-regular {
+  font-family: "Matemasie", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rubik-vinyl-regular {
+  font-family: "Rubik Vinyl", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rubik-glitch-regular {
+  font-family: "Rubik Glitch", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.playwrite-ng-modern-guides-regular {
+  font-family: "Playwrite NG Modern Guides", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-condensed-head {
+  font-family: "Roboto Condensed", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.asul-regular {
+  font-family: "Asul", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.asul-bold {
+  font-family: "Asul", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.andika-regular {
+  font-family: "Andika", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.andika-bold {
+  font-family: "Andika", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.andika-regular-italic {
+  font-family: "Andika", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.andika-bold-italic {
+  font-family: "Andika", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.arima-about {
+  font-family: "Arima", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.josefin-sans-about {
+  font-family: "Josefin Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.spectral-extralight {
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.spectral-light {
+  font-family: "Spectral", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.spectral-regular {
+  font-family: "Spectral", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.spectral-medium {
+  font-family: "Spectral", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.spectral-semibold {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.spectral-bold {
+  font-family: "Spectral", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.spectral-extrabold {
+  font-family: "Spectral", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.spectral-extralight-italic {
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.spectral-light-italic {
+  font-family: "Spectral", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.spectral-regular-italic {
+  font-family: "Spectral", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.spectral-medium-italic {
+  font-family: "Spectral", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.spectral-semibold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.spectral-bold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.spectral-extrabold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 800;
+  font-style: italic;
+}

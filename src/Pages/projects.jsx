@@ -6,7 +6,7 @@ const Projects = () => {
     return (
         <>
             <div className='projects' id='projects'>
-                <p className='text-sky-300 jersey-15-regular underline h1 pl-2 pt-10'>Projects</p>
+                <p className='text-sky-300 roboto-condensed-head underline h1 pl-2 pt-10'>Projects</p>
                 <div id="carouselExampleCaptions" className="carousel slide" data-ride="carousel">
                     <ol className="carousel-indicators">
                         <li data-target="#carouselExampleCaptions" data-slide-to="0" className="active"></li>

@@ -1,15 +1,15 @@
 import React from 'react';
-import profile from '../assets/images/profile.png'
+import profile from '../assets/images/profile2.png'
 const About = () => {
     return (
         <>
             <div className='about flex md:flex-row flex-col-reverse' id='about'>
                 <div className='lg:w-2/5 md:2/6 w-auto justify-items-center'>
-                    <img className='md:h-full h-auto lg:pt-20 md:pt-20 pt-0' src={profile} alt='...' />
+                    <img className='md:h-auto h-auto lg:pl-5 md:pl-5 sm:pl-0' src={profile} alt='...' />
                 </div>
                 <div className='lg:w-3/5 md:w-4/6 sm:w-auto'>
-                    <p className='text-sky-300 jersey-15-regular underline h1 pl-2'>About</p>
-                    <ul className='text-white cinzel-about lg:text-lg md:text-sm text-sm md:w-3/6 w-auto pl-10 pt-10'>
+                    <p className='text-sky-300 roboto-condensed-head underline h1 pl-2'>About</p>
+                    <ul className='text-white josefin-sans-about lg:text-lg md:text-sm text-sm md:w-3/6 w-auto pl-10 pt-10'>
                         <li><b className='text-yellow-300'>Passionate MERN Developer: </b>I specialize in creating scalable and interactive web applications using <b className='text-red-300'>React.js, Node.js, Express.js and MongoDB.</b></li>
                         <br />
                         <li><b className='text-yellow-300'>Project Highlights: </b>Built a <a className='text-red-300 font-extrabold' href='https://travelwithourapp.netlify.app'>Travel Planner App </a>for trip planning and a <a className='text-red-300 font-extrabold' href='https://lsttodo.netlify.app'>ToDo App,</a> showcasing my ability to solve real-world challenges</li>

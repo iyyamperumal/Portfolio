@@ -4,7 +4,7 @@ const Contacts = () => {
     return (
         <>
             <div className='contacts' id='contacts'>
-                <p className='text-sky-300 jersey-15-regular underline h1 pt-10 text-center'>Contacts</p>
+                <p className='text-sky-300 roboto-condensed-head underline h1 pt-10 text-center'>Contacts</p>
                 <div className='flex flex-col gap-10'>
                     <div className='text-white flex flex-col align-items-center playwrite-ng-modern-guides-regular gap-5 md:text-2xl text-sm'>
                         <span>Email: <a href='mailto:sathishkannan140@gmail.com' target='blank'>sathishkannan140@gmail.com</a></span>
