@@ -8,7 +8,7 @@ const Contacts = () => {
                 <div className='flex flex-col gap-10'>
                     <div className='text-white flex flex-col align-items-center playwrite-ng-modern-guides-regular gap-5 md:text-2xl text-sm'>
                         <span>Email: <a href='mailto:sathishkannan140@gmail.com' target='blank'>sathishkannan140@gmail.com</a></span>
-                        <span>Phone: <a href='callto:+91 8682865855'>(+91) 8682865855</a></span>
+                        <span>Phone: <a href='tel:+91 8682865855'>(+91) 8682865855</a></span>
                     </div>
                     <div className='flex flex-row justify-center gap-5'>
                         <a href='mailto:sathishkannan140@gmail.com' target='blank'><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" viewBox="0 0 48 48">
