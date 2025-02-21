@@ -2,8 +2,8 @@ import React from 'react';
 const Header = () => {
     return (
         <>
-            <div className='bg-dark'>
-                <div className="w-auto p-3">
+            <div className='w-full bg-dark fixed z-10 '>
+                <div className="w-full p-3">
                     <span className="badge-dark nav justify-content-center italic h1 ">PORTFOLIO</span>
                 </div>
                 <nav className="nav nav-pills text-warning nav-fill h6 p-1">

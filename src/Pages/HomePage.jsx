@@ -4,7 +4,7 @@ import homePagePic from '../assets/images/image4.png'
 const HomePage = () => {
     return (
         <>
-            <div className='home flex justify-items-normal md:flex-row flex-col' id='home'>
+            <div className='home flex justify-items-normal md:flex-row flex-col lg:pt-[5rem]' id='home'>
                 <div className="flex flex-col home container-lg p-2 font-serif text-wrap space-x-5 text-center pt-5">
                     <div className='justify-center align-middle lg:pt-10'>
                         <p className='font-weight-bold font-italic text-white lg:text-3xl md:text-3xl text-sm font-sans '>Hello,</p>

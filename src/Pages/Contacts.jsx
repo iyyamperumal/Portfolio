@@ -23,6 +23,9 @@ const Contacts = () => {
                     </div>
                 </div>
             </div>
+            <div className='josefin-sans-about w-full h-[2rem] bg-gray-900 items-center text-white text-center'>
+                <p className='pt-1'> © Iyyam Perumal. All rights reserved.</p>
+            </div>
         </>
     );
 }
