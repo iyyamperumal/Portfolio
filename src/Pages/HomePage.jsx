@@ -20,7 +20,7 @@ const HomePage = () => {
                         </div>
                     </div>
                     <div className=''>
-                        <div><p className='text-fuchsia-200 text-xl pt-10'>Tap to view and download </p></div><div><a href='https://drive.google.com/file/d/1JtgWybiYnZ_hpHdl4MOI-_iHqen5I7Qn/view?usp=sharing' target='blank' className='text-teal-300 h4 hover:text-orange-300'> My Resume <i className="fa-regular fa-file" /></a></div>
+                        <div><p className='text-fuchsia-200 text-xl pt-10'>Tap to view and download </p></div><div><a href='https://drive.google.com/file/d/1AqE_SuuYipwS4O9hY-G51xAOEwBuRCjo/view?usp=sharing' target='blank' className='text-teal-300 h4 hover:text-orange-300'> My Resume <i className="fa-regular fa-file" /></a></div>
                     </div>
                 </div>
                 <div className='lg:w-1/2 md:w-1/2 sm:w-auto'>

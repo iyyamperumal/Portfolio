@@ -1,8 +1,8 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import travel from '../assets/images/travelplanner.jpg';
-import landing from '../assets/images/landingpage.jpg';
-import todo from '../assets/images/todo.jpg';
+import lsmobiles from '../assets/images/lsmobiles.jpg';
+import recipe from '../assets/images/recipebook.jpg';
 import ajstock from '../assets/images/ajstocks.jpg';
 const Projects = () => {
     return (
@@ -26,15 +26,15 @@ const Projects = () => {
                         </div>
                         <div className="shadow-lg shadow-gray-500 flex flex-col justify-between cursor-pointer hover:shadow-xl border border-white md:text-sm w-[30%] h-[10rem] md:w-[10rem] md:h-[10rem] lg:w-[15rem] lg:h-[15rem] bg-opacity-10 rounded-md p-1 hover:p-3 transition-all duration-200 will-change-transform hover:scale-105"
                         >
-                            <img src={todo} className="d-block w-full h-1/2 rounded-md" alt="..." />
-                            <p className="text-white text-xl text-opacity-100 text-center">ToDo List Application</p>
-                            <span className='text-black lg:text-lg md:text-lg text-base underline flex flex-row justify-evenly'><a href='https://lsttodo.netlify.app' target='blank'>View site</a> <a href='https://github.com/iyyamperumal/Task14' target='blank'>Github</a></span>
+                            <img src={recipe} className="d-block w-full h-1/2 rounded-md" alt="..." />
+                            <p className="text-white text-xl text-opacity-100 text-center">Recipe Book</p>
+                            <span className='text-black lg:text-lg md:text-lg text-base underline flex flex-row justify-evenly'><a href='https://recipebookip.netlify.app' target='blank'>View site</a> <a href='https://github.com/iyyamperumal/Recepie-Book-FE' target='blank'>Github</a></span>
                         </div>
                         <div className="shadow-lg shadow-gray-500 flex flex-col justify-between cursor-pointer hover:shadow-xl border border-white md:text-sm w-[30%] h-[10rem] md:w-[10rem] md:h-[10rem] lg:w-[15rem] lg:h-[15rem] bg-opacity-10 rounded-md p-1 hover:p-3 transition-all duration-200 will-change-transform hover:scale-105"
                         >
-                            <img src={landing} className="d-block w-full h-1/2 rounded-md" alt="..." />
-                            <p className="text-white text-xl text-opacity-100 text-center">Landing Page</p>
-                            <span className='text-black lg:text-lg md:text-lg text-base underline flex flex-row justify-evenly'><a href='https://componentstask.netlify.app' target='blank'>View site</a> <a href='https://github.com/iyyamperumal/Task13' target='blank'>Github</a></span>
+                            <img src={lsmobiles} className="d-block w-full h-1/2 rounded-md" alt="..." />
+                            <p className="text-white text-xl text-opacity-100 text-center">L.S. Mahalakshmi Mobiles</p>
+                            <span className='text-black lg:text-lg md:text-lg text-base underline flex flex-row justify-evenly'><a href='https://lsmahalakshmimobiles.netlify.app' target='blank'>View site</a></span>
                         </div>
                         <div className="shadow-lg shadow-gray-500 flex flex-col justify-between cursor-pointer hover:shadow-xl border border-white md:text-sm w-[30%] h-[10rem] md:w-[10rem] md:h-[10rem] lg:w-[15rem] lg:h-[15rem] bg-opacity-10 rounded-md p-1 hover:p-3 transition-all duration-200 will-change-transform hover:scale-105"
                         >

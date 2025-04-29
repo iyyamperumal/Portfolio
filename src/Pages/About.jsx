@@ -12,11 +12,11 @@ const About = () => {
                     <ul className='text-white josefin-sans-about lg:text-lg md:text-sm text-sm md:w-3/6 w-auto pl-10 pt-10'>
                         <li><b className='text-yellow-300'>Passionate MERN Developer: </b>I specialize in creating scalable and interactive web applications using <b className='text-red-300'>React.js, Node.js, Express.js and MongoDB.</b></li>
                         <br />
-                        <li><b className='text-yellow-300'>Project Highlights: </b>Built a <a className='text-red-300 font-extrabold' href='https://travelwithourapp.netlify.app'>Travel Planner App </a>for trip planning and a <a className='text-red-300 font-extrabold' href='https://lsttodo.netlify.app'>ToDo App,</a> showcasing my ability to solve real-world challenges</li>
+                        <li><b className='text-yellow-300'>Project Highlights: </b>Built a <a className='text-red-300 font-extrabold' href='https://travelwithourapp.netlify.app'>Travel Planner App </a>for trip planning and a <a className='text-red-300 font-extrabold' href='https://recipebookip.netlify.app'>Recipe book App,</a> showcasing my ability to solve real-world challenges</li>
                         <br />
                         <li><b className='text-yellow-300'>Development Approach: </b>I focus on writing clean, efficient code and designing responsive, user friendly interfaces that enhance the user experience.</li>
                         <br />
-                        <li><b className='text-yellow-300'>Let's Connect: </b>I'm always exploring new technologies and open to collaboration. Reach out via <a className='text-blue-400' href='http://www.linkedin.com/in/iyyam-perumal-s-6b1b30324'>LinkedIn</a> or <a className='text-blue-400' href='https://github.com/iyyamperumal'>GitHub</a></li>
+                        <li><b className='text-yellow-300'>Let's Connect: </b>I'm always exploring new technologies and open to collaboration. Reach out via <a className='text-blue-400' target='blank' href='http://www.linkedin.com/in/iyyam-perumal-s-6b1b30324'>LinkedIn</a> or <a className='text-blue-400' href='https://github.com/iyyamperumal' target='blank'>GitHub</a></li>
                     </ul>
                 </div>
             </div>
